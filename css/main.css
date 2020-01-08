@@ -16,7 +16,7 @@
 }
 .profile-pic
 {
-    //border-radius: 50%;
+    border-radius: 10%;
     height: 440px;
     width: 680px;
     align-self: center;
